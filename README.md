@@ -28,8 +28,8 @@ cd client && npm run build
 
 ### Author
 
-Brad Traversy
-[Traversy Media](http://www.traversymedia.com)
+Herbert Kavuma
+[Netgild](https://www.netgild.com/ or https://herbert.netgild.com)
 
 ### Version
 
